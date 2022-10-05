@@ -1,0 +1,176 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+  font-style: normal;
+}
+
+.container {
+  margin-bottom: 100px;
+}
+.nav {
+  width: 198.07px;
+  height: 59px;
+  left: 212px;
+  top: 30px;
+}
+
+.container-fluid {
+  padding-bottom: 50px;
+}
+
+.navbar-nav a {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+
+button {
+  padding: 8px 25px;
+  align-items: center;
+  gap: 10px;
+  background: #21b573;
+  border: none;
+  border-radius: 33px;
+  color: white;
+}
+
+.bg {
+  left: 0px;
+  top: 0px;
+  background-color: #f0fff0;
+}
+
+.card {
+  height: 270px;
+  width: 270px;
+  border: none;
+  background: #f8fffb;
+  border-radius: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.card img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card img {
+  width: 66px;
+  height: 85px;
+}
+
+.card h5 {
+  font-weight: 550;
+  font-size: 24px;
+  line-height: 36px;
+  color: #413960;
+}
+
+.card p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #585859;
+}
+
+.card1 img {
+  width: 60px;
+  height: 70px;
+}
+
+.courses {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  color: #413960;
+  text-align: center;
+}
+
+.psychology img {
+  width: 331px;
+  height: 234px;
+  border-radius: 11px;
+}
+
+.psychology .card {
+  padding-top: 18px;
+  width: 370px;
+  height: 450px;
+  left: 10px;
+  background: #ffffff;
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 18px;
+}
+
+.calender img {
+  width: 18px;
+  height: 20px;
+}
+
+.calender p {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #585859;
+}
+
+.calender span {
+  padding-top: -10px;
+}
+
+.testimonial h5 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  text-align: center;
+  color: #000000;
+}
+
+.review img {
+  width: 120px;
+  height: 120px;
+  float: right;
+}
+
+.review p {
+  width: 580px;
+  padding-top: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  float: left;
+  color: #000000;
+}
+
+.footer {
+  padding-top: 50px;
+
+  text-align: center;
+}
+
+.BGFooter {
+  height: 369px;
+  background: #282531;
+  color: white;
+}
+
+.BGFooter .row {
+  padding-bottom: 20px;
+}
+
+.foot1,
+.footer p {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 30px;
+  color: lightgray;
+}
+
+.footer h6 {
+  font-weight: 700;
+}
